@@ -1,0 +1,121 @@
+---
+title: ""
+about:
+  template: trestles
+  image: profile_picture.jpg
+---
+
+```{=html}
+<style>
+/* 1. Global Colors and Background */
+body {
+  background-color: #f7f2e8 !important;
+  color: #24292e !important;
+}
+
+/* 2. Page Layout & Width */
+.quarto-container {
+  max-width: 1400px !important;
+}
+
+.quarto-about-trestles {
+  grid-template-columns: 1fr 4fr !important; 
+  gap: 3em;
+  align-items: start !important;
+}
+
+/* 3. Sidebar (Left Column) */
+.about-links {
+  display: none !important; /* Hides the extra LinkedIn/Email buttons */
+}
+
+.about-entity {
+  text-align: center;
+  margin-left: -80px !important;
+}
+
+.about-entity::after {
+  content: "Henrique Santos";
+  display: block;
+  margin-top: 15px;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #1b4965;
+}
+
+/* 4. Content Area (Right Column) */
+#title-block-header { margin-bottom: 0.5em !important; }
+.about-contents { margin-top: -20px !important; }
+
+h2 {
+  color: #1b4965 !important;
+  font-weight: 700;
+  border-bottom: 2px solid #1b4965;
+  padding-bottom: 10px;
+  margin-top: 0 !important;
+}
+
+p {
+  margin-bottom: 15px !important;
+  line-height: 1.4 !important;
+}
+
+/* 5. Keyword Badges Style - Updated for a sleeker look */
+.keyword-badge {
+  display: flex;
+  align-items: center;      /* Centers vertically */
+  justify-content: center;   /* Centers horizontally */
+  background-color: #1b4965;
+  color: #f7f2e8;
+  border-radius: 30px;
+  font-size: 0.9rem;
+  text-align: center;
+  height: 50px;             /* Fixed height */
+  line-height: 1.2;         /* Normalizes text height */
+  padding: 0 15px;          /* Only horizontal padding */
+}
+
+/* This is the secret: it removes the bottom margin Quarto adds to text */
+.keyword-badge p, 
+.keyword-badge div {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.dna-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  max-width: 650px;
+  margin-top: 25px;
+}
+</style>
+```
+
+## The Bridge Between Science and Story
+
+I am a **PhD Candidate** in Developmental Psychology at the **University of California, Santa Cruz**, working within the **CRECE Lab**. My research is driven by a fundamental question: *How can animation be a tool for children's learning and development?*
+
+By combining my background in developmental science with storytelling, I investigate how media sparks the parent-child conversations that help children navigate complex concepts.
+
+------------------------------------------------------------------------
+
+### Research DNA
+
+::::::: dna-grid
+::: keyword-badge
+Children Development
+:::
+
+::: keyword-badge
+Animated Films
+:::
+
+::: keyword-badge
+Parent-Child Conversations
+:::
+
+::: keyword-badge
+Cross-Cultural Perspectives
+:::
+:::::::

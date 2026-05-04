@@ -3,20 +3,35 @@ project:
   output-dir: docs
 
 website:
-  title: "HS_Website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: aboutme.qmd
+      - text: "Science"
+        menu:
+          - text: "Current Research"
+            href: research.qmd
+          - text: "Publications"
+            href: publications.qmd
+      - text: "Media & Animation"
+        href: media.qmd
+      - text: "For Parents"
+        href: parents.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/henrique-santos-/
+      - icon: envelope
+        href: mailto:hepereir@ucsc.edu
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+      light: [cosmo, custom.scss]
+    toc: false
+    mainfont: "Inter, sans-serif"
 
 editor: visual
-

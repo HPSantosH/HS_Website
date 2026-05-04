@@ -1,11 +1,47 @@
 ---
-title: "HS_Website"
+title: "Henrique Santos"
+subtitle: "Translating how children grow into the stories they grow up with"
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
-This is a Quarto website.
+<style>
+/* This part works everywhere, even outside of R */
+body {
+  background-color: #f7f2e8 !important;
+}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#title-block-header {
+  text-align: center !important;
+  padding-top: 15vh !important;
+  border-bottom: none !important;
+}
 
-```{r}
-1 + 1
-```
+.title {
+  color: #1b4965 !important;
+  font-weight: 700 !important;
+  font-size: 3.5rem !important;
+}
+
+.subtitle {
+  font-weight: 300 !important;
+  font-style: italic !important;
+  color: #24292e !important;
+  font-size: 1.5rem !important;
+  margin-top: 15px !important;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;
+}
+</style>
+
+::: {.button-container}
+<a href="research.qmd" class="btn btn-outline-primary btn-lg" role="button">The Science Behind</a>
+<a href="parents.qmd" class="btn btn-primary btn-lg" role="button">From Screen to Living Room</a>
+:::

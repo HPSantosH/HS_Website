@@ -1,0 +1,12 @@
+---
+title: "Media"
+---
+
+## Animation as a Research Tool
+I use 2D minimalistic animation to create controlled environments for developmental studies. 
+
+### Why Animation?
+*   **Engagement:** Children respond naturally to animated storytelling.
+*   **Precision:** It allows us to isolate specific behaviors or moral dilemmas without the noise of live-action video.
+*   **Accessibility:** Animation can bridge language barriers in cross-cultural research.
+---

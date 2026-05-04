@@ -1,0 +1,58 @@
+/*-- scss:defaults --*/
+
+// Color Palette
+$body-bg: #f7f2e8;    
+$body-color: #24292e; 
+$link-color: #1b4965; 
+$hover-teal: #38b2ac; // Our "Action" color
+
+// Typography
+$font-family-sans-serif: "Inter", system-ui, -apple-system, sans-serif;
+
+/*-- scss:rules --*/
+
+// Global Button Settings
+.btn {
+  border-radius: 8px;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+// "From Screen to Living Room" - The Solid Button
+.btn-primary {
+  background-color: $link-color !important; 
+  border-color: $link-color !important;
+  color: white !important;
+  box-shadow: 0 4px 14px 0 rgba(0, 119, 182, 0.3);
+  
+  &:hover {
+    background-color: $hover-teal !important; 
+    border-color: $hover-teal !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px 0 rgba(56, 178, 172, 0.4);
+  }
+}
+
+// "The Science Behind" - The Outline Button
+.btn-outline-primary {
+  color: $link-color !important;
+  border-color: $link-color !important;
+  border-width: 2px;
+  
+  &:hover {
+    background-color: $hover-teal !important; // Now highlights in Teal
+    border-color: $hover-teal !important;
+    color: white !important; // Text turns white for contrast
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px 0 rgba(56, 178, 172, 0.2);
+  }
+}
+
+// Navbar styling
+.navbar {
+  border-bottom: 1px solid rgba(0, 119, 182, 0.1);
+  background-color: $body-bg !important;
+}
