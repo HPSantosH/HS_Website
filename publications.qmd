@@ -1,3 +1,24 @@
 ---
-title: "Publications"
+title: "Publications & Presentations"
+---
+
+## Conference Presentations
+
+### 2026
+*   **Santos, H.**, & Menendez, D. (2026). *Children’s Multiple Conceptions of Death: Biological, Spiritual, and Affective Understandings.* 
+Poster presented at the Cognitive Development Society (CDS) Conference, Montreal, Canada.
+<a href="files/H_Santos-CDS_Poster_2026.pdf" class="btn btn-outline-primary" style="padding: 1px 6px; font-size: 0.75rem; line-height: 1.2; vertical-align: middle; margin-left: 8px;"><i class="bi bi-file-earmark-pdf"></i> Poster PDF</a>
+
+### 2025
+*   **Santos, H.**, & Menendez, D. (2025). *Once Upon a Goodbye: Exploring How Animated Films Spark Child-Caregiver Conversations About Death.* 
+Poster presented at the Cognitive Science Society (CogSci) Conference, San Francisco, United States.
+*   **Santos, H.**, & Menendez, D. (2025). *Once Upon a Goodbye: Exploring How Animated Films Spark Parent-Child Conversations About Death.* 
+Presentation at the Bay Area Developmental Symposium, UC Merced, United States.
+
+---
+
+## Manuscripts in Preparation
+
+*   **Santos, H.**, & Menendez, D. (In Prep). *Children's Understanding of Death and Parent-Child Conversations About Death.*
+
 ---

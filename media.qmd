@@ -1,12 +1,25 @@
 ---
-title: "Media"
+title: "Media & Animation"
 ---
 
-## Animation as a Research Tool
-I use 2D minimalistic animation to create controlled environments for developmental studies. 
+My work utilizes 2D minimalistic animation to bridge the gap between scientific findings and public health communication. By focusing on clear storytelling and relatable characters, these animations serve as tools for both education and research.
 
-### Why Animation?
-*   **Engagement:** Children respond naturally to animated storytelling.
-*   **Precision:** It allows us to isolate specific behaviors or moral dilemmas without the noise of live-action video.
-*   **Accessibility:** Animation can bridge language barriers in cross-cultural research.
+## Featured Work
+
+### COVID-19 Explained for Families
+::: {layout="[60, 40]"}
+{{< video https://www.youtube.com/watch?v=YOUR_VIDEO_ID >}}
+
+**Project Overview:** Developed during the pandemic, this animation was designed to explain complex health science to children and their parents. It uses simplified visual metaphors to reduce anxiety and provide actionable health information.
+:::
+
 ---
+
+## Future Projects & Prototypes
+I am currently developing a series of short animated films designed to facilitate **parent-child conversations** about biological concepts and social-emotional growth. 
+
+* **Project Death:** A series of shorts exploring the biological cycle of life.
+* **The "Villain" Series:** Exploring moral ambiguity through character design.
+---
+
+## 

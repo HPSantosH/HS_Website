@@ -1,3 +1,42 @@
 ---
 title: "For Parents"
 ---
+
+Welcome! This space is dedicated to translating developmental science into practical insights for parents and creators. Here, we explore how stories and animation can help us navigate complex conversations with children.
+
+::: {.panel-tabset}
+
+## Translating Science
+*Summaries of research written for families and media creators.*
+
+### [Post 1] Why "Villains" Matter for Moral Growth
+::: {layout="[30, 70]"}
+![](images/villain_post_thumb.png)
+
+Does watching "bad guys" help kids be good? We look at how morally ambiguous characters in animated films help children practice distinguishing between social rules and fundamental morals.
+[Read the full post →](#)
+:::
+
+---
+
+### [Post 2] Animation: A Tool for Tough Topics
+::: {layout="[30, 70]"}
+![](images/death_post_thumb.png)
+
+Talking about death doesn't have to be scary. Learn how high-quality storytelling provides a "safe distance" for children to ask big questions about life and biology.
+[Read the full post →](#)
+:::
+
+## External Resources
+*A curated list of tools and guides from the broader developmental community.*
+
+### For Conversations
+* **Sesame Workshop**: Resources for talking to children about grief and difficult transitions.
+* **Common Sense Media**: Age-based ratings and reviews focusing on the educational and moral value of films.
+
+### For Media Creators
+* **Center for Scholars & Storytellers**: Research-backed tip sheets for authentic representation of childhood in media.
+* **The Fred Rogers Center**: Guidelines on using digital media in ways that support healthy relationships.
+
+:::
+---

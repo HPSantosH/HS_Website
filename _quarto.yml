@@ -14,11 +14,11 @@ website:
           - text: "Current Research"
             href: research.qmd
           - text: "Publications"
-            href: publications.qmd
-      - text: "Media & Animation"
-        href: media.qmd
+            href: publications.qmd      
       - text: "For Parents"
         href: parents.qmd
+      - text: "Media & Animation"
+        href: media.qmd
       - text: "CV"
         href: cv.qmd
     right:

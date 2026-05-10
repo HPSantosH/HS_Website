@@ -56,3 +56,17 @@ $font-family-sans-serif: "Inter", system-ui, -apple-system, sans-serif;
   border-bottom: 1px solid rgba(0, 119, 182, 0.1);
   background-color: $body-bg !important;
 }
+
+/* 1. Hide the anchor link icon that appears on hover for ALL header levels */
+.anchorjs-link {
+  display: none !important;
+}
+
+/* 2. Disable clicking/hover effects on all headers (h1 through h6) */
+h1, h2, h3, h4, h5, h6 {
+  pointer-events: none !important;
+  cursor: default !important;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+

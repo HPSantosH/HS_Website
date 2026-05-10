@@ -1,9 +1,96 @@
 ---
-title: "Current Research"
+title: "Current Projects"
 ---
 
-## Children's Understanding of Death
+Explore my ongoing research at the intersection of developmental psychology and children's media.
 
+---
 
-## Moral Reasoning
+### Animated Bridges: Scaffolding Parent-Child Conversations About Death
+:::: {.columns}
+
+::: {.column width="35%"}
+![](images/death_study.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Children encounter the concept of death early through media and personal experience. This project investigates how parents can use animated films to scaffold their 4- to 6-year-old children's understanding of death. By observing families during online interviews and shared viewing of short animated films, we explore how media acts as a tool for navigating complex conversations.
+
+**Preliminary Findings:**
+Our current data suggests that most families mentioned death in their conversations after watching an animation. However, these conversations are often brief, with parents assuming an active role and focused primarily on the **affective aspects** of death. This focus on emotional aspects of death might suggest parents desire to prepare their children with socioemotional skills.
+:::
+
+---
+
+### The Cultural Ecology of Death: How Culture Shape Parent-Child Conversations
+:::: {.columns}
+
+::: {.column width="35%"}
+![](images/death_study.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Expanding on the previous methodology, this project examines how cultural context influences the way parents and children navigate the concept of death. By recruiting participant populations from **Brazil** and **Colombia**, we aim to identify cross-cultural variations in scaffolding strategies and conceptual emphasis. The goal is to determine how cultural values and narratives shape the interactions between parents and children during co-viewing.
+:::
+
+---
+
+### Heroes, Villains, and Loss: Emotional Attribution and Empathy in Fictional Death
+:::: {.columns}
+
+::: {.column width="35%"}
+![](images/death_study.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+From heroes to "sympathetic villains," animated characters provide a playground for moral development. This study explores how characters' morals influence children's perception of death. Children (ages 4-10) evaluate morally "good," "bad," and "mixed" characters (e.g., characters that did good and bad stuff) within animated narratives. We specifically investigate how a character’s moral status informs a child’s emotional attribution and empathy following the character's death.
+
+**Preliminary Findings:**
+:::
+
+---
+
+### The Architecture of Learning: How Animated Features Shape Early Science Comprehension
+:::: {.columns}
+
+::: {.column width="35%"}
+![](images/death_study.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Animation is a powerful tool for public health communication. In this project, we analyze how specific features of animated media, such as visual representations (e.g., anthropomorphism), affect how children understand viruses and illness. By testing child comprehension after viewing different educational animations about COVID-19, we aim to identify if the way the information is presented to children (i.e., in a realistic or animistic model) influence children's learning about COVID-19 and transfering to other viruses.
+
+**Preliminary Findings:**
+:::
+
+---
+
+### Mapping the Silence: A Needs Assessment of Parental Challenges and Strategies in Death Conversations
+:::: {.columns}
+
+::: {.column width="35%"}
+![](images/death_study.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+This project utilizes a large-scale parental survey to assess the current landscape of parent-child conversations regarding death. By documenting families' past experiences, the specific strategies employed, and the challenges faced, we aim to quantify the perceived need for external support in navigating these discussions. 
+
+**Research Goals:**
+The data gathered will serve to identify successful naturalistic strategies used by parents and pinpoint common conceptual or emotional roadblocks. These findings will directly inform the development of a research-based guide designed to support parents in managing these challenging conversations and provide them with the tools they have identified as most beneficial for their family dynamics.
+:::
 ---
