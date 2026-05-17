@@ -70,3 +70,16 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none !important;
 }
 
+/* Change all page and section titles to the slate blueprint blue */
+h1, h2, h3, h4, h5, h6, .title {
+    color: #1b4965 !important;
+}
+
+/* Custom utility for extra-small, clean buttons */
+.custom-btn-mini {
+    padding: 2px 8px !important;
+    font-size: 0.78rem !important;
+    line-height: 1.2 !important;
+    margin-top: 4px;
+    display: inline-block;
+}

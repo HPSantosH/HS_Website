@@ -1,42 +1,45 @@
 ---
-title: "For Parents"
+title: "Animation as a Tool"
 ---
 
-Welcome! This space is dedicated to translating developmental science into practical insights for parents and creators. Here, we explore how stories and animation can help us navigate complex conversations with children.
+Explore how families and media creator can use animation as a tool for children's learning and development.
 
-::: {.panel-tabset}
+------------------------------------------------------------------------
 
-## Translating Science
-*Summaries of research written for families and media creators.*
+#### Do Children Know "Villains" Are Bad?
 
-### [Post 1] Why "Villains" Matter for Moral Growth
-::: {layout="[30, 70]"}
-![](images/villain_post_thumb.png)
-
-Does watching "bad guys" help kids be good? We look at how morally ambiguous characters in animated films help children practice distinguishing between social rules and fundamental morals.
-[Read the full post →](#)
+:::::: columns
+::: {.column width="30%"}
+![](images/villains_thumb.png)
 :::
 
----
-
-### [Post 2] Animation: A Tool for Tough Topics
-::: {layout="[30, 70]"}
-![](images/death_post_thumb.png)
-
-Talking about death doesn't have to be scary. Learn how high-quality storytelling provides a "safe distance" for children to ask big questions about life and biology.
-[Read the full post →](#)
+::: {.column width="5%"}
 :::
 
-## External Resources
-*A curated list of tools and guides from the broader developmental community.*
+::: {.column width="65%"}
+No character is entirely good or entirely bad, and children notice those shades of gray. Animated stories give families a safe space to explore empathy, helping children understand that even the "villains" have complex feelings and people who love them.
 
-### For Conversations
-* **Sesame Workshop**: Resources for talking to children about grief and difficult transitions.
-* **Common Sense Media**: Age-based ratings and reviews focusing on the educational and moral value of films.
-
-### For Media Creators
-* **Center for Scholars & Storytellers**: Research-backed tip sheets for authentic representation of childhood in media.
-* **The Fred Rogers Center**: Guidelines on using digital media in ways that support healthy relationships.
-
+[Full post coming soon →](posts/villains-moral-growth.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
 :::
----
+::::::
+
+------------------------------------------------------------------------
+
+#### How Animation Can Be a Tool for Tough Topics
+
+:::::: columns
+::: {.column width="30%"}
+![](images/death_thumb.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+Talking about death doesn't have to be scary. Animated films and storytelling provide a starting point for children to ask big questions about life and biology.
+
+[Full post coming soon →](posts/tough-topics.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
+:::
+::::::
+
+------------------------------------------------------------------------

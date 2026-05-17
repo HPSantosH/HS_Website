@@ -1,25 +1,21 @@
 ---
-title: "Media & Animation"
+title: "Original Animation"
 ---
 
-My work utilizes 2D minimalistic animation to bridge the gap between scientific findings and public health communication. By focusing on clear storytelling and relatable characters, these animations serve as tools for both education and research.
+My work utilizes animation to bridge the gap between scientific findings and children's development. By focusing on clear storytelling and relatable characters, these animations serve as tools for both education and research.
 
 ## Featured Work
 
 ### COVID-19 Explained for Families
+
 ::: {layout="[60, 40]"}
 {{< video https://www.youtube.com/watch?v=YOUR_VIDEO_ID >}}
 
-**Project Overview:** Developed during the pandemic, this animation was designed to explain complex health science to children and their parents. It uses simplified visual metaphors to reduce anxiety and provide actionable health information.
+**Project Overview:** This educational animation helps young children and their parents understand how our bodies fight off illnesses. By using animated characters to explain what happens inside the body when a virus enters, the film makes complex health science feel simple and visible. It also shows the science behind everyday safety habits, giving families an easy way to talk about why wearing masks and getting vaccinated keep us healthy.
 :::
 
----
+------------------------------------------------------------------------
 
 ## Future Projects & Prototypes
-I am currently developing a series of short animated films designed to facilitate **parent-child conversations** about biological concepts and social-emotional growth. 
 
-* **Project Death:** A series of shorts exploring the biological cycle of life.
-* **The "Villain" Series:** Exploring moral ambiguity through character design.
----
-
-## 
+I am currently developing an animated film designed to facilitate parent-child conversations about biological, spiritual, and affective aspects of death.

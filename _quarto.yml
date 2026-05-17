@@ -13,14 +13,19 @@ website:
         menu:
           - text: "Current Research"
             href: research.qmd
-          - text: "Publications"
+          - text: "Publications & Presentations"
             href: publications.qmd      
       - text: "For Parents"
-        href: parents.qmd
-      - text: "Media & Animation"
+        menu: 
+          - text: "From screens to living room"
+            href: parents.qmd
+          - text: "Resources & Media"
+            href: external-resources.qmd
+      - text: "Original Animation"
         href: media.qmd
       - text: "CV"
-        href: cv.qmd
+        href: https://docs.google.com/document/d/1f0oJF5Z-9KS5E2RWP6F0K8944ZjfMALe/export?format=pdf
+        target: _blank
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/henrique-santos-/

@@ -1,0 +1,26 @@
+---
+title: "External Resources"
+---
+
+A curated collection of external tools, guides, and organizations dedicated to child development and media.
+
+---
+
+### <i class="bi bi-people-fill"></i> Research-Based Guides
+
+**UCSC CRECE Lab Resources** Direct access to our lab's website.  
+[Visit Our Lab <i class="bi bi-box-arrow-up-right"></i>](https://crece.ucsc.edu/){.btn .btn-outline-primary .btn-xs .custom-btn-mini role="button"}
+
+**Sesame Workshop** Excellent multimedia tools for helping children navigate trauma, grief, and big emotions.  
+[Explore Sesame Tools <i class="bi bi-box-arrow-up-right"></i>](https://www.sesameworkshop.org/){.btn .btn-outline-primary .btn-xs .custom-btn-mini role="button"}
+
+---
+
+### <i class="bi bi-tv"></i> Media Literacy & Selection
+
+**Common Sense Media** The gold standard for checking age-appropriateness and developmental themes in films and games.  
+[Check Ratings <i class="bi bi-box-arrow-up-right"></i>](https://www.commonsensemedia.org/){.btn .btn-outline-primary .btn-xs .custom-btn-mini role="button"}
+
+**Psychology Today: The Integrated Child** Insights into how children process narrative and digital media.  
+[Read Articles <i class="bi bi-box-arrow-up-right"></i>](https://www.psychologytoday.com/){.btn .btn-outline-primary .btn-xs .custom-btn-mini role="button"}
+---
