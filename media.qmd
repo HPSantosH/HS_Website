@@ -1,5 +1,5 @@
 ---
-title: "Original Animation"
+title: "Media & Animation"
 ---
 
 My work utilizes animation to bridge the gap between scientific findings and children's development. By focusing on clear storytelling and relatable characters, these animations serve as tools for both education and research.
@@ -8,9 +8,16 @@ My work utilizes animation to bridge the gap between scientific findings and chi
 
 ### COVID-19 Explained for Families
 
-::: {layout="[60, 40]"}
-{{< video https://www.youtube.com/watch?v=YOUR_VIDEO_ID >}}
+::: {.row}
 
+::: {.col-md-7}
+<video width="100%" controls style="border-radius: 4px; display: block;" preload="metadata">
+  <source src="images/covidvideo.mp4" type="video/mp4">
+  <source src="covidvideo.mp4" type="video/mp4">
+</video>
+
+
+::: {.col-md-5}
 **Project Overview:** This educational animation helps young children and their parents understand how our bodies fight off illnesses. By using animated characters to explain what happens inside the body when a virus enters, the film makes complex health science feel simple and visible. It also shows the science behind everyday safety habits, giving families an easy way to talk about why wearing masks and getting vaccinated keep us healthy.
 :::
 
@@ -19,3 +26,5 @@ My work utilizes animation to bridge the gap between scientific findings and chi
 ## Future Projects & Prototypes
 
 I am currently developing an animated film designed to facilitate parent-child conversations about biological, spiritual, and affective aspects of death.
+
+---
