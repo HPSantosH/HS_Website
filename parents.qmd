@@ -1,27 +1,8 @@
 ---
-title: "Animation as a Tool"
+title: "From Screens to Living Room"
 ---
 
 Explore how families and media creator can use animation as a tool for children's learning and development.
-
-------------------------------------------------------------------------
-
-#### Do Children Know "Villains" Are Bad?
-
-:::::: columns
-::: {.column width="30%"}
-![](images/villains_thumb.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
-No character is entirely good or entirely bad, and children notice those shades of gray. Animated stories give families a safe space to explore empathy, helping children understand that even the "villains" have complex feelings and people who love them.
-
-[Full post coming soon →](posts/villains-moral-growth.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
-:::
-::::::
 
 ------------------------------------------------------------------------
 
@@ -39,6 +20,25 @@ No character is entirely good or entirely bad, and children notice those shades 
 Talking about death doesn't have to be scary. Animated films and storytelling provide a starting point for children to ask big questions about life and death
 
 [Read the full post →](posts/proj-Death.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
+:::
+::::::
+
+------------------------------------------------------------------------
+
+#### Do Children Know "Villains" Are Bad?
+
+:::::: columns
+::: {.column width="30%"}
+![](images/proj-Villains.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+No character is entirely good or entirely bad, and children notice those shades of gray. Animated stories give families a safe space to explore empathy, helping children understand that even the "villains" have complex feelings and people who love them.
+
+[Full post coming soon →](posts/villains-moral-growth.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
 :::
 ::::::
 
