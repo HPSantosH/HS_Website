@@ -6,7 +6,7 @@ title: "Publications & Presentations"
 
 ### 2026
 
--   **Santos, H.**, & Menendez, D. (2026). *Children’s multiple conceptions of death: Biological, spiritual, and affective understandings.* Poster presented at the Cognitive Development Society Bi-Ennial Conference in Montreal, Canada. <a href="files/H_Santos-CDS_Poster_2026.pdf" class="btn btn-outline-primary" style="padding: 1px 6px; font-size: 0.75rem; line-height: 1.2; vertical-align: middle; margin-left: 8px;"><i class="bi bi-file-earmark-pdf"></i> Poster PDF</a>
+-   **Santos, H.**, & Menendez, D. (2026). *Children’s multiple conceptions of death: Biological, spiritual, and affective understandings.* Poster presented at the Cognitive Development Society Bi-Ennial Conference in Montreal, Canada. <a href="files/H_Santos-CDS_Poster_2026.pdf" target="_blank" class="btn btn-outline-primary" style="padding: 1px 6px; font-size: 0.75rem; line-height: 1.2; vertical-align: middle; margin-left: 8px;"><i class="bi bi-file-earmark-pdf"></i> Poster PDF</a>
 -   Goettems, A., Ledesma, D., Munoz, U., **Santos, H.**, & Menendez, D**.** (2026). *How did you learn about death? Cultural impacts on children’s understanding of death*. Poster presented at the Bay Area Developmental Symposium in Santa Cruz, CA
 -   Price, I., Otto, E., **Santos, H.**, & Menendez, D. (2026). *Death of heroes and villains—to be celebrated or mourned? How moral evaluations shape children’s emotions about death.* Poster presented at the Bay Area Developmental Symposium in Santa Cruz, CA
 -   Munoz, U., Goettems, A., Ledesma, D., **Santos, H.**, & Menendez, D. (2026). *Children's understanding of death, conversations about death, and parental predictors.* Poster presented at the Psi Chi symposium in Santa Cruz, CA
@@ -20,6 +20,6 @@ title: "Publications & Presentations"
 
 ## Manuscripts in Preparation
 
--   **Santos, H.**, & Menendez, D. (In Prep). *Children's Understanding of Death and Parent-Child Conversations About Death.*
+-   **Santos, H.**, & Menendez, D. (In Prep). *Rated E for Emotional: Children's Understanding of Death, Conversations About Death, and Parental Predictors.* <a href="https://osf.io/preprints/psyarxiv/n9vcq_v2" target="_blank" class="btn btn-outline-primary" style="padding: 1px 6px; font-size: 0.75rem; line-height: 1.2; vertical-align: middle; margin-left: 8px;"><i class="bi bi-file-earmark-pdf"></i>Preprint</a>
 
 ------------------------------------------------------------------------

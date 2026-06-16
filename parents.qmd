@@ -25,20 +25,20 @@ No character is entirely good or entirely bad, and children notice those shades 
 
 ------------------------------------------------------------------------
 
-#### How Animation Can Be a Tool for Tough Topics
+#### How Animation Can Be a Tool for Conversations About Death
 
 :::::: columns
 ::: {.column width="30%"}
-![](images/death_thumb.png)
+![](images/proj-Death.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="65%"}
-Talking about death doesn't have to be scary. Animated films and storytelling provide a starting point for children to ask big questions about life and biology.
+Talking about death doesn't have to be scary. Animated films and storytelling provide a starting point for children to ask big questions about life and death
 
-[Full post coming soon →](posts/tough-topics.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
+[Read the full post →](posts/proj-Death.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
 :::
 ::::::
 
