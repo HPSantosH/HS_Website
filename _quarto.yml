@@ -19,7 +19,7 @@ website:
             href: publications.qmd      
       - text: "For Parents"
         menu: 
-          - text: "From screens to living room"
+          - text: "From Screens to Living Room"
             href: parents.qmd
           - text: "Resources & Media"
             href: external-resources.qmd
