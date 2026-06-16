@@ -19,7 +19,7 @@ Explore how families and media creator can use animation as a tool for children'
 ::: {.column width="65%"}
 Talking about death doesn't have to be scary. Animated films and storytelling provide a starting point for children to ask big questions about life and death
 
-[Read the full post →](posts/proj-Death.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
+[Read the full post →](posts/more-than-entertainment.qmd){.btn .btn-outline-primary style="padding: 1px 6px; font-size: 0.75rem; vertical-align: middle;"}
 :::
 ::::::
 
